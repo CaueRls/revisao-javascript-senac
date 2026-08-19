@@ -4,6 +4,7 @@
 
 // TODO:
 // Crie um array chamado produtos com pelo menos 5 objetos.
+ const produtos = ["arros", "feijão", "batata", "carne", "tomate"]; 
 //
 // Cada produto deve possuir:
 // id
